@@ -7,7 +7,7 @@ public class nabin {
 		
 		
 		
-		Person person = new Person(5,"Nabin");
+		Person person = new Person(5,"Samip");
 		person.toString();
 		person.println();
 	}
